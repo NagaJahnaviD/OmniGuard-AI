@@ -63,5 +63,5 @@ Make sure to replace it with a valid key.
 
 ## Authors
 Developed by :
-Dannayak Naga Jahnavi\n
+Dannayak Naga Jahnavi and
 Vaishnavi Sriyaa Narasimhadevara
